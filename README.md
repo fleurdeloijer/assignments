@@ -10,3 +10,6 @@
 [R]
 
 [assignment 1](https://github.com/fleurdeloijer/assignments/blob/master/Graded_assignment1.ipynb)
+
+[assignment 2](https://github.com/fleurdeloijer/assignments/blob/master/Graded_assignment_2.ipynb),
+The chart did not load, and thus I was not able to recreate it... 
