@@ -13,3 +13,9 @@
 
 [assignment 2](https://github.com/fleurdeloijer/assignments/blob/master/Graded_assignment_2.ipynb),
 The chart did not load, and thus I was not able to recreate it... 
+
+[Exam]
+
+[Python]
+
+[R](https://github.com/fleurdeloijer/assignments/blob/master/Exam_student.ipynb)
