@@ -16,6 +16,6 @@ The chart did not load, and thus I was not able to recreate it...
 
 [Exam]
 
-[Python]
+[Python](https://github.com/fleurdeloijer/assignments/blob/master/exam_june_7_2018.ipynb)
 
 [R](https://github.com/fleurdeloijer/assignments/blob/master/Exam_student.ipynb)
